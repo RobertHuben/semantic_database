@@ -1,0 +1,111 @@
+
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+
+Personal tools
+Contents hide
+(Top)
+Description
+Model organism
+Neurology
+Reproduction
+References
+Hydra vulgaris
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+Hydra vulgaris
+
+Scientific classificationEdit this classification
+Domain:	Eukaryota
+Kingdom:	Animalia
+Phylum:	Cnidaria
+Class:	Hydrozoa
+Order:	Anthoathecata
+Family:	Hydridae
+Genus:	Hydra
+Species:	H. vulgaris
+Binomial name
+Hydra vulgaris
+Pallas, 1766[1]
+Synonyms
+Hydra attenuata
+Hydra magnipapillata [2]
+Hydra vulgaris, the fresh-water polyp,[3] is a small freshwater hydroid with length from 10 mm to 30 mm and width about 1 mm.[4]
+
+Description
+The hydra have four to twelve tentacles that protrude from just outside the mouth. They feed by extending their tentacles and waiting for food to touch the tentacles. They then bring the food to their mouth, ingest and digest the organism. Anything that cannot be digested is egested. Ingestion and egestion occur through the mouth.
+
+Like other hydras, Hydra vulgaris cling to a base object with a "foot" pad, shaped like a disk. The Hydra moves by releasing its grip on its base and is carried away by the current. H. vulgaris can also move by bending over, grabbing a surface with its tentacles, releasing its grip with its "foot" and flipping over itself.
+
+Model organism
+H. vulgaris is often used, like many hydra, as a model organism for morphallactic regeneration because they are easy to care for, requiring minimal direct care, and reproduce relatively quickly. It is reported that they do not undergo senescence, making them biologically immortal[5] although this has been disputed.[6]
+
+Neurology
+Having the simplest nervous system of any known organism, the neurology of H. vulgaris is of interest to the neuroscience community, in the hopes that understanding such simple circuitry will be a precedent for understanding the more complex function of brains. The nervous system and resulting behaviors have been extensively studied by Rafael Yuste et al. As of 2021, H. vulgaris is the only animal for which the connection between its neural structure and every single one of its behaviors has been solved, with the exception of the neural code of the neurons themselves.[7][8][9][10]
+
+Reproduction
+
+Hydra oligactis
+This species can reproduce in three ways: sexual reproduction, budding, and indirectly through regeneration.[11]
+
+When hydra reproduce sexually, simple testes, ovaries, or both will develop on the bodies of an individual. Sperm released into the environment by the testes enters the egg within the ovary. The egg forms a chitinous exoskeleton and waits for favorable conditions before the organism will emerge.
+
+Budding occurs when conditions are favorable; proper water temperature and enough food are the major factors. A miniature adult hydra will grow out of the body of the parent hydra. Once fully developed, it will separate from the parent and continue the life cycle. Hydras use this kind of reproduction more often because it is easier and will create more hydras than other methods.
+
+The third method of reproduction is more of a survival mechanism than a reproduction mechanism. When a hydra is cut into segments, each segment, if large enough, will grow into an individual hydra sized relative to the size of the segment. This happens in other animals, such as the starfish.
+
+References
+
+Wikimedia Commons has media related to Hydra vulgaris.
+ Schuchert, P. (2011). Schuchert P (ed.). "Hydra vulgaris Pallas, 1766". World Hydrozoa database. World Register of Marine Species. Retrieved 2011-12-18.
+ Hydra vulgaris, NCBI.
+ Paola Pierobon, Angela Tino, Rosario Minei, Giuseppe Marino. Different roles of GABA and glycine in the modulation of chemosensory responses in Hydra vulgaris (Cnidaria, Hydrozoa), Coelenterate Biology 2003. Springer Netherlands. DOI: 10.1007/978-1-4020-2762-8_7.
+ Hydra Archived 2013-12-25 at the Wayback Machine, Northern State University.
+ Martinez, D.E. (May 1998), "Mortality patterns suggest lack of senescence in hydra." (PDF), Experimental Gerontology, 33 (3): 217–225, CiteSeerX 10.1.1.500.9508, doi:10.1016/S0531-5565(97)00113-7, PMID 9615920, S2CID 2009972, archived from the original (PDF) on 2018-09-07
+ Estep, P. W. (September 2010). "Declining asexual reproduction is suggestive of senescence in hydra: comment on Martinez, D., "Mortality patterns suggest lack of senescence in hydra."". Experimental Gerontology. 45 (9): 645–6. doi:10.1016/j.exger.2010.03.017. PMID 20398746. S2CID 35408542.
+ "How headless hydra feel, react to prodding".
+ "An AI for Deciphering What Animals do All Day".
+ "How does the nervous system create behavior? Muscle activity map in Hydra gives insight".
+ "Researchers map full-body muscular activity of Hydra during movement". 25 May 2019.
+ Working with Hydra, Ward's Science 2002.
+Taxon identifiers
+Hydra vulgaris	
+Wikidata: Q2720227Wikispecies: Hydra vulgarisADW: Hydra_vulgarisBioLib: 43583BOLD: 104179CoL: 3N2DPEoL: 46551706EPPO: HDRAVUEUNIS: 260682Fauna Europaea: 240571Fauna Europaea (new): 14319e93-d972-4045-a873-af445863bf7eGBIF: 5185782iNaturalist: 486293IRMNG: 11860818NBN: NHMSYS0000304777NCBI: 6087Observation.org: 27235Open Tree of Life: 111442uBio: 6581131WoRMS: 290157
+Categories: HydridaeAnimals described in 1766Taxa named by Peter Simon Pallas
+This page was last edited on 17 April 2024, at 19:36 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia FoundationPowered by MediaWiki
