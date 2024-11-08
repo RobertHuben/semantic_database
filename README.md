@@ -1,4 +1,4 @@
-This repo contains code for a vector search database, and querying it.
+This repo contains code for a basic vector search database, and querying it.
 
 Contents:
 
